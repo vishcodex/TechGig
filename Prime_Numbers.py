@@ -31,5 +31,3 @@ def main():
                 print (num) 
 
 main()
-
-
